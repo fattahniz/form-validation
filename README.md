@@ -62,8 +62,8 @@ Or view the Live Vercel Demo
 
 ✍️ Author
 Made with ❤️ by [Abdul Fattah Nizamani]
-📧 Contact: abdulfattahnizamani266@email.com
-[🌐 GitHub](https://github.com/abdulfattahnizamani)| [LinkedIn](https://linkedin.com/in/abdulfattahnizamani)
+📧 Contact: abdulfattahnizamani266@email.com ||
+[🌐 GitHub](https://github.com/fattahniz)| || [LinkedIn](https://linkedin.com/in/fattahniz)
 
 
 ---
