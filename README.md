@@ -53,7 +53,7 @@ form-validation/
 1. Clone or download this repo:
    ```bash
    git clone https://github.com/abdulfattahnizamani/form-validation.git
-
+```
    Open index.html in your browser
 
 Start typing to see real-time validation
